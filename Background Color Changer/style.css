@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+button {
+    width: 100px;
+    height: 60px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px white;
+    color: white;
+}
+
+#red {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#crimson {
+    background-color:crimson;
+}
+
+#orangered {
+    background-color: orangered;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#pink {
+    background-color: pink;
+}
